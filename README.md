@@ -9,4 +9,4 @@ Name: Veda Siva Vasishta Yakkala ID: 700758715
 
 3.Letter grade based on an input class score, using if statement conditions.
 
-Code File - Neural_Network_and_Deep_Learning_ICP_1.ipynb Document- ICP_1_Summer24.pdf
+Code File - Neural_Network_and_Deep_Learning_ICP_1.ipynb Document- ICP_1_Summer2024.pdf
